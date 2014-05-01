@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://download.eclipse.org/birt/update-site/4.3" selected="true" name="BIRT Update Site"/>
+   <site url="http://download.eclipse.org/datatools/updates" selected="true" name="DTP Update Site"/>
+   <site url="http://download.eclipse.org/modeling/emf/emf/updates/releases/" selected="true" name="Eclipse Modeling Framework (EMF) Build Site"/>
+   <site url="http://download.eclipse.org/webtools/updates" selected="true" name="Eclipse Web Tools Platform Repository"/>
+   <site url="http://download.eclipse.org/releases/kepler" selected="true" name="Kepler"/>
+   <site url="http://download.eclipse.org/mylyn/releases/latest/" selected="true" name="Mylyn Latest"/>
+   <site url="http://download.eclipse.org/tools/gef/updates/releases/" selected="true" name="org.eclipse.gef.repository"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.3" selected="true" name="The Eclipse Project Updates"/>
+   <site url="http://download.eclipse.org/webtools/downloads/drops/R3.5.0/S-3.5.0M3-20121113153853/repository/" selected="true" name="Web Tools Platform Repository I-3.5.0-20121113153853"/>
+   <site url="http://download.eclipse.org/webtools/repository/kepler/" selected="true" name="Webtools Kepler"/>
+</bookmarks>
